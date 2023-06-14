@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T21:42:11 IST" name="Default suite" finished-at="2023-06-04T21:42:12 IST" duration-ms="971">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T21:42:11 IST" name="Default test" finished-at="2023-06-04T21:42:12 IST" duration-ms="971">
+      <class name="storeproceduretesting.StoreFunctionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:storeproceduretesting.StoreFunctionTest@3c22fc4c]" started-at="2023-06-04T21:42:11 IST" name="setup" finished-at="2023-06-04T21:42:11 IST" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_CustomerLevel_with_StoredProcedure()[pri:0, instance:storeproceduretesting.StoreFunctionTest@3c22fc4c]" started-at="2023-06-04T21:42:11 IST" name="test_CustomerLevel_with_StoredProcedure" finished-at="2023-06-04T21:42:12 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CustomerLevel_with_StoredProcedure -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:storeproceduretesting.StoreFunctionTest@3c22fc4c]" started-at="2023-06-04T21:42:12 IST" name="tearDown" finished-at="2023-06-04T21:42:12 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- storeproceduretesting.StoreFunctionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
